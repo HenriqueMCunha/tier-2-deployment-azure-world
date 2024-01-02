@@ -4,6 +4,7 @@
   - [Creating a Virtual Network](#creating-a-virtual-network)
   - [Creating Subnets](#creating-subnets)
   - [Creating Security Groups](#creating-security-groups)
+  - [Create Public Route Table](#create-public-route-table)
   - [Generated a SSH Key](#generated-a-ssh-key)
   - [Created Virtual Machines](#created-virtual-machines)
   - [Containerization](#containerization)
@@ -20,6 +21,10 @@
 ## Creating Security Groups
 
 * [Create Security Groups](create-security-groups)
+
+## Create Public Route Table
+
+* [Create Public Route Table](create-public-rt)
 
 ## Generated a SSH Key
 
