@@ -7,6 +7,7 @@
   - [Create Public Route Table](#create-public-route-table)
   - [Generated a SSH Key](#generated-a-ssh-key)
   - [Created Virtual Machines](#created-virtual-machines)
+  - [Automating the Virtual Machine - BASH Scripts](#automating-the-virtual-machine---bash-scripts)
   - [Containerization](#containerization)
 
 
@@ -33,6 +34,9 @@
 ## Created Virtual Machines
 
 * [Create Virtual Machine](create-virtual-machines)
+
+## Automating the Virtual Machine
+* [Automate Virtual Machine](virtual-machine-bash)
 
 ## Containerization
 
