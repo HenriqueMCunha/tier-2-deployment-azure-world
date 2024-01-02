@@ -35,8 +35,8 @@
 
 * [Create Virtual Machine](create-virtual-machines)
 
-## Automating the Virtual Machine - BASH Scripts
-* 
+## Automating the Virtual Machine
+* [Automate Virtual Machine](virtual-machine-bash)
 
 ## Containerization
 
