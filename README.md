@@ -7,8 +7,10 @@
   - [Create Public Route Table](#create-public-route-table)
   - [Generated a SSH Key](#generated-a-ssh-key)
   - [Created Virtual Machines](#created-virtual-machines)
-  - [Automating the Virtual Machine - BASH Scripts](#automating-the-virtual-machine---bash-scripts)
+  - [Automating the Virtual Machine](#automating-the-virtual-machine)
   - [Containerization](#containerization)
+  - [Retrospective](#retrospective)
+  - [Feedback](#feedback)
 
 
 ## Creating a Virtual Network
@@ -41,4 +43,13 @@
 ## Containerization
 
 * [Containerization](containerization)
+
+## Retrospective
+
+* [Retrospective](retrospective)
+
+## Feedback
+
+[Title](feedback)
+
 
